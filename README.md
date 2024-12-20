@@ -15,7 +15,7 @@
 - 🌱 Estoy aprendiendo **JavaScript** y **Python**, y trabajando con herramientas como **React** (biblioteca) y **Node.js** (entorno de ejecución).
 - 🌱 Soy apasionada por encontrar errores en el código y aprender continuamente nuevos lenguajes de programación.
 - 💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.
-- 📫 Puedes contactarme por correo electrónico: [angelesfesr97@gmail.com](mailtoangelesfesr97@gmail.com)
+- 📫 Puedes contactarme por correo electrónico: [angelesfesr97@gmail.com](mailto:angelesfesr97@gmail.com)
 
 ---
 
