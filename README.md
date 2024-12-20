@@ -1,7 +1,7 @@
 #  ¡Hola! Soy Angeles ☺️
 
 <p align="center">
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F387309636699976525%2F&psig=AOvVaw1kLUhV3fFiE75P6tz4MZrk&ust=1734792471243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjDu9rLtooDFQAAAAAdAAAAABAw
+  <img src="https://giphy.com/embed/1yjpuTqR2LEGRyznsg"
        alt="GIF divertido" 
        width="400" 
        style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
