@@ -1,10 +1,10 @@
 #  ¡Hola! Soy Angeles ☺️
 
 <p align="center">
-  <img src="https://giphy.com/embed/1yjpuTqR2LEGRyznsg"
+  <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
        alt="GIF divertido" 
        width="400" 
-       style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
 
 ---
