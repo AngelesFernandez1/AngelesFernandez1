@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
        alt="GIF divertido" 
-       width="400" 
+       width="300" 
        style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
 
@@ -21,7 +21,22 @@
 
 ## 💫 Mis Proyectos
 
+
 ### 🐶 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
+**Proyecto de mitad de bootcamp en SocraTech.**
+
+Pets es una red social para amantes de las mascotas, un lugar diseñado para que puedas compartir fotos y momentos especiales de tus fieles compañeros. 🐶🐱
+
+Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió poner a prueba todo lo aprendido hasta ahora. ¡Estoy muy orgullosa del resultado! 💡
+
+🛠️ Tecnologías utilizadas:
+✅ Node.js para construir el back-end.
+✅ Express como framework del servidor.
+✅ Bootstrap para un diseño atractivo y responsivo.
+✅ MySQL para gestionar los datos de forma eficiente.
+
+Si quieres ver un poco mas, te dejo un video explicandotelo todo:
+- https://www.youtube.com/watch?v=SrRprvhWwYk
 
 
 
