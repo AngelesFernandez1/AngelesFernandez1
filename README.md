@@ -11,7 +11,7 @@
 
 ##  Sobre mí 👩🏼‍💻
 
-- Actualmente me estoy formando para ser desarrolladora full-stack.
+-  Desarrolladora Jr Full Stack Web Developer.
 - 🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web. 
 - 🌱 Estoy aprendiendo **JavaScript** y **Python**, y trabajando con herramientas como **React** (biblioteca) y **Node.js** (entorno de ejecución).
 - 💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.
