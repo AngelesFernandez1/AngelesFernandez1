@@ -30,10 +30,10 @@ Pets es una red social para amantes de las mascotas, un lugar diseñado para que
 Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió poner a prueba todo lo aprendido hasta ahora. ¡Estoy muy orgullosa del resultado! 💡
 
 🛠️ Tecnologías utilizadas:
-✅ Node.js para construir el back-end.
-✅ Express como framework del servidor.
-✅ Bootstrap para un diseño atractivo y responsivo.
-✅ MySQL para gestionar los datos de forma eficiente.
+- Node.js para construir el back-end.
+- Express como framework del servidor.
+- Bootstrap para un diseño atractivo y responsivo.
+- MySQL para gestionar los datos de forma eficiente.
 
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=SrRprvhWwYk
