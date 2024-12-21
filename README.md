@@ -21,7 +21,7 @@
 
 ## 💫 Mis Proyectos
 
-### 🌟 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
+### 🐶 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
 
 
 
