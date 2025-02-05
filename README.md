@@ -39,6 +39,15 @@ Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió 
        alt="imagen del proyecto" 
        width="300" 
        style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/794f0f05-60e4-410f-bc42-ff161c180bc6"
+       alt="imagen del proyecto" 
+       width="300" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/850e7333-c1b8-4f24-bd8c-d5101b946bc8"
+
+       alt="imagen del proyecto" 
+       width="300" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=SrRprvhWwYk
