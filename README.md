@@ -83,17 +83,16 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 
 Este es un juego de memoria desarrollado en React.js como un proyecto personal. La idea surgió durante las fiestas, buscando equilibrar el aprendizaje y el tiempo en familia. 🎄✨
 
-🚀 Tecnologías utilizadas:
-
--React.js ⚛️ → Para la construcción de la interfaz interactiva y manejo del estado con useState y useEffect.
--CSS3 & Animaciones 🎨 → Para estilizar y agregar efectos visuales.
--Bootstrap 💠 → Para una maquetación responsiva y un diseño limpio y adaptable.
--JavaScript (ES6+) 🚀 → Uso de funciones como map(), filter(), slice() y lógica de juego para manejar la mecánica de memoria.
+🛠️ Tecnologías utilizadas:
+- React.js ⚛️ → Para la construcción de la interfaz interactiva y manejo del estado con useState y useEffect.
+- CSS3 & Animaciones 🎨 → Para estilizar y agregar efectos visuales.
+- Bootstrap 💠 → Para una maquetación responsiva y un diseño limpio y adaptable.
+- JavaScript (ES6+) 🚀 → Uso de funciones como map(), filter(), slice() y lógica de juego para manejar la mecánica de memoria.
 
 🎯 Características del juego:
-✅ Barajado aleatorio de cartas en cada partida.
-✅ Dos niveles de dificultad.
-✅ Contador de intentos.
+- Barajado aleatorio de cartas en cada partida.
+- Dos niveles de dificultad.
+- Contador de intentos.
 
 ---
 
