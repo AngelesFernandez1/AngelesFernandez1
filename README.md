@@ -35,8 +35,7 @@ Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió 
 - Bootstrap para un diseño atractivo y responsivo.
 - MySQL para gestionar los datos de forma eficiente.
 
-  <img src="![Screenshot 2024-11-21 at 18 58 06](https://github.com/user-attachments/assets/b5708277-da56-4f19-aa15-ff577aa9b204)
-" 
+  <img src="https://github.com/user-attachments/assets/b5708277-da56-4f19-aa15-ff577aa9b204" 
        alt="imagen del proyecto" 
        width="300" 
        style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
