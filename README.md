@@ -1,22 +1,21 @@
 #  ¡Hola! Soy Angeles ☺️
 
-<p display="flex">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
        alt="GIF divertido" 
-       width="300" 
+       width="150" 
        style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  <p>
-##  Sobre mí 👩🏼‍💻
-
--  Desarrolladora Jr Full Stack Web Developer.
-- 🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web. 
-- 🌱 Estoy aprendiendo **JavaScript** y **Python**, y trabajando con herramientas como **React** (biblioteca) y **Node.js** (entorno de ejecución).
-- 💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.
-- 📫 Puedes contactarme por correo electrónico: [angelesfesr97@gmail.com](mailto:angelesfesr97@gmail.com)
-  </p>
-</p>
-
-
+  
+  <div>
+    <h2>Sobre mí 👩🏼‍💻</h2>
+    <ul>
+      <li>Desarrolladora Jr Full Stack Web Developer.</li>
+      <li>🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web.</li>
+      <li>💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.</li>
+      <li>📫 Puedes contactarme por correo electrónico: <a href="mailto:angelesfesr97@gmail.com">angelesfesr97@gmail.com</a></li>
+    </ul>
+  </div>
+</div>
 
 
 ---
