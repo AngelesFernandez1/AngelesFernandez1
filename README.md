@@ -1,21 +1,24 @@
 #  ¡Hola! Soy Angeles ☺️
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
-       alt="GIF divertido" 
-       width="150" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  
-  <div>
-    <h2>Sobre mí 👩🏼‍💻</h2>
-    <ul>
-      <li>Desarrolladora Jr Full Stack Web Developer.</li>
-      <li>🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web.</li>
-      <li>💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.</li>
-      <li>📫 Puedes contactarme por correo electrónico: <a href="mailto:angelesfesr97@gmail.com">angelesfesr97@gmail.com</a></li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
+           alt="GIF divertido" 
+           width="150" 
+           style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+    </td>
+    <td>
+      <h2>Sobre mí 👩🏼‍💻</h2>
+      <ul>
+        <li>Desarrolladora Jr Full Stack Web Developer.</li>
+        <li>🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web.</li>
+        <li>💼 Estoy abierta a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.</li>
+        <li>📫 Puedes contactarme por correo electrónico: <a href="mailto:angelesfesr97@gmail.com">angelesfesr97@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ---
