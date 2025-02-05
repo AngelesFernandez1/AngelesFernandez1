@@ -1,6 +1,6 @@
 #  ¡Hola! Soy Angeles ☺️
 
-<p >
+<p display="flex">
   <img src="https://media.giphy.com/media/1yjpuTqR2LEGRyznsg/giphy.gif" 
        alt="GIF divertido" 
        width="300" 
