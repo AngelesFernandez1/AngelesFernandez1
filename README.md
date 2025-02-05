@@ -29,19 +29,12 @@
 ### 🐶 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
 **Proyecto de mitad de bootcamp en SocraTech.**
 
-<img src="https://github.com/user-attachments/assets/339c5a71-672f-4e00-9c5a-7a5c1976598a"
-       alt="imagen del proyecto" 
-       width="150" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/28dea1fc-2550-40ed-967f-238ac53eb2a3"
-       alt="imagen del proyecto" 
-       width="150" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-       
-  <img src="https://github.com/user-attachments/assets/cb103edb-ec07-4a06-86a2-3f9bbda77862"
-       alt="imagen del proyecto" 
-       width="150" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+<p>
+  <img src="https://github.com/user-attachments/assets/339c5a71-672f-4e00-9c5a-7a5c1976598a" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/28dea1fc-2550-40ed-967f-238ac53eb2a3" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cb103edb-ec07-4a06-86a2-3f9bbda77862" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
+
 
 Pets es una red social para amantes de las mascotas, un lugar diseñado para que puedas compartir fotos y momentos especiales de tus fieles compañeros. 🐶🐱
 
