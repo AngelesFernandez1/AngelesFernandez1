@@ -32,8 +32,9 @@
   <img src="https://github.com/user-attachments/assets/28dea1fc-2550-40ed-967f-238ac53eb2a3"
        alt="imagen del proyecto" 
        width="300" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>     
-  <img src="github.com/user-attachments/assets/04b0445b-93c5-4640-bb54-319cf2c17b81"
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+       
+  <img src="https://github.com/user-attachments/assets/cb103edb-ec07-4a06-86a2-3f9bbda77862"
        alt="imagen del proyecto" 
        width="300" 
        style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
