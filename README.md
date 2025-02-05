@@ -25,6 +25,19 @@
 ### 🐶 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
 **Proyecto de mitad de bootcamp en SocraTech.**
 
+<img src="https://github.com/user-attachments/assets/339c5a71-672f-4e00-9c5a-7a5c1976598a"
+       alt="imagen del proyecto" 
+       width="300" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/28dea1fc-2550-40ed-967f-238ac53eb2a3"
+       alt="imagen del proyecto" 
+       width="300" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>     
+  <img src="github.com/user-attachments/assets/04b0445b-93c5-4640-bb54-319cf2c17b81"
+       alt="imagen del proyecto" 
+       width="300" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+
 Pets es una red social para amantes de las mascotas, un lugar diseñado para que puedas compartir fotos y momentos especiales de tus fieles compañeros. 🐶🐱
 
 Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió poner a prueba todo lo aprendido hasta ahora. ¡Estoy muy orgullosa del resultado! 💡
@@ -34,19 +47,6 @@ Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió 
 - Express como framework del servidor.
 - Bootstrap para un diseño atractivo y responsivo.
 - MySQL para gestionar los datos de forma eficiente.
-
-  <img src="https://github.com/user-attachments/assets/339c5a71-672f-4e00-9c5a-7a5c1976598a"
-       alt="imagen del proyecto" 
-       width="300" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/794f0f05-60e4-410f-bc42-ff161c180bc6"
-       alt="imagen del proyecto" 
-       width="300" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>     
-  <img src="https://github.com/user-attachments/assets/850e7333-c1b8-4f24-bd8c-d5101b946bc8"
-       alt="imagen del proyecto" 
-       width="300" 
-       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=SrRprvhWwYk
