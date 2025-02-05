@@ -31,17 +31,10 @@
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
     <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" title="Express"/>
-    
-  </span>
-</p>
-
-## 🎨 Mi Layout Stack
-
-<p align="center">
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://github.com/user-attachments/assets/46900a5a-7de1-46ab-a749-72c65d82edc3" alt="SASS" title="SASS" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+    
   </span>
 </p>
 
