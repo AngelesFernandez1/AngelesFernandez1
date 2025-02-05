@@ -53,6 +53,23 @@
 
 ## 💫 Mis Proyectos
 
+### 👩‍🌾 [ECOAGROCORRAL](https://github.com/AngelesFernandez1/ProyectoEcoAgroCorral)
+**Proyecto de Final de Bootcamp en SocraTech.**
+
+🛠️ Tecnologías utilizadas:
+#### Backend
+- Node.js + Express.js → Construcción de un backend escalable y optimizado para manejo de solicitudes.
+- Stripe API → Implementación de la pasarela de pagos en el backend, gestionando transacciones seguras y eficientes.
+- JSON Web Token (JWT) → Autenticación segura y manejo de sesiones de usuario.
+- Bcrypt → Encriptación de contraseñas para proteger la seguridad de los usuarios.
+
+#### Frontend
+- React.js → Creación de una interfaz dinámica y modular.
+- Bootstrap → Diseño responsivo y adaptable a dispositivos móviles y escritorio.
+- Zod → Validación de formularios en el frontend para asegurar que los datos ingresados sean correctos y estén bien formateados.
+
+#### Base de datos
+MySQL → Sistema de gestión de bases de datos relacional utilizado para almacenar los datos de los usuarios, experiencias, rutas y transacciones de reservas.
 
 ### 🐶 [PROYECTO PETS](https://github.com/AngelesFernandez1/Proyecto-Pets)
 **Proyecto de mitad de bootcamp en SocraTech.**
@@ -75,7 +92,7 @@ Este sitio web fue creado en solo 4 días, un desafío intenso que me permitió 
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=SrRprvhWwYk
 
-### 🐶 [ONE PIECE MEMORY](https://github.com/AngelesFernandez1/One-Piece-Memory)
+### 🏴‍☠ [ONE PIECE MEMORY](https://github.com/AngelesFernandez1/One-Piece-Memory)
 <p>
   <img src="https://github.com/user-attachments/assets/77a55dbc-60c8-4dbb-8f78-8276740dbe6f" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
   <img src="https://github.com/user-attachments/assets/1c0823a6-6039-42a0-826b-44010b4e151d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
