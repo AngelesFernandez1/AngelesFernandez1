@@ -56,6 +56,13 @@
 ### 👩‍🌾 [ECOAGROCORRAL](https://github.com/AngelesFernandez1/ProyectoEcoAgroCorral)
 **Proyecto de Final de Bootcamp en SocraTech.**
 
+<p>
+  <img src="https://github.com/user-attachments/assets/31c4b004-013b-4a5c-8368-54815705c93b" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a4b2788c-27bd-45b1-9bfd-6404b77fa55d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/065252d3-a07f-41ba-ae98-b0ef435ffe8d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/90c5cc59-0cd9-4c0a-be9c-2b83e06eec89" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
+
 🛠️ Tecnologías utilizadas:
 #### Backend
 - Node.js + Express.js → Construcción de un backend escalable y optimizado para manejo de solicitudes.
